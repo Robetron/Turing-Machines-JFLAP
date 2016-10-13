@@ -1,2 +1,2 @@
 # Turing-Machines-JFLAP
-JFLAP files for common Turing Machines
+JFLAP files of some common Turing Machines
